@@ -1,5 +1,7 @@
-# Covid-19 Tracker App
+# CoviConnect
 
 
-https://user-images.githubusercontent.com/96865753/226998005-490721b6-401e-4de6-9715-9706ee71ec0b.mp4
+
+
+https://github.com/Prathamkumar18/CoviConnect/assets/96865753/842451d5-40fe-45ee-aa17-96c1cb5f4f3d
 
